@@ -1,0 +1,15 @@
+---
+---
+
+/* FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Righteous&display=swap");
+
+/* SCSS VARIABLES */
+$NAVBAR: #ec5e55;
+$FONT_COLOR: #4e5e55;
+$HEADER_FONT: "Righteous", cursive;
+$MAIN_FONT: "Lato", sans-serif;
+
+/* SCSS IMPORTS */
+@import "bootstrap/bootstrap";
+@import "main";
